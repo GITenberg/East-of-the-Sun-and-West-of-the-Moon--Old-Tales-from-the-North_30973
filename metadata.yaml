@@ -1,0 +1,58 @@
+_repo: East-of-the-Sun-and-West-of-the-Moon--Old-Tales-from-the-North_30973
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nielsen, Kay Rasmus
+    birthdate: 1886
+    deathdate: 1957
+    gutenberg_agent_id: '34926'
+    url: http://www.gutenberg.org/2009/agents/34926
+covers:
+- cover_type: archival
+  image_path: 30973-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Moe, Jørgen Engebretsen
+    aliases:
+    - Moe, J. E. (Jørgen Engebretsen)
+    - Moe, Jorgen Engebretsen
+    birthdate: 1813
+    deathdate: 1882
+    gutenberg_agent_id: '34178'
+    url: http://www.gutenberg.org/2009/agents/34178
+    wikipedia: http://en.wikipedia.org/wiki/J%C3%B8rgen_Moe
+  - agent_name: Asbjørnsen, Peter Christen
+    aliases:
+    - Asbjornsen, Peter Christen
+    - Asbjörnsen, P. Chr.
+    - Asbjørnsen, P. C. (Peter Christen)
+    - Bonifacius, Clemens
+    birthdate: 1812
+    deathdate: 1885
+    gutenberg_agent_id: '34177'
+    url: http://www.gutenberg.org/2009/agents/34177
+    wikipedia: http://en.wikipedia.org/wiki/Peter_Christen_Asbj%C3%B8rnsen
+description: 'Includes six traditional Norwegian tales: East of the Sun and West of
+  the Moon, The Blue Belt, The Lassie and her Godmother, The Three Princesses of Whiteland,
+  The Widow''s Son, The Three Princesses in the Blue Mountain.'
+gutenberg_issued: '2010-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- Norway'
+- !lcsh 'Folklore -- Norway'
+- !lcsh 'Tales -- Norway'
+tableOfContents: East of the sun and west of the moon -- The blue belt -- Prince Lindworm
+  -- The lassie and her godmother -- The husband who was to mind the house -- The
+  lad who went to the North Wind -- The three princesses of Whiteland -- Soria Moria
+  Castle -- The giant who had no heart in his body -- The princess on the glass hill
+  -- The widow's son -- The three billy-goats Gruff -- The three princesses in the
+  Blue Mountain -- The cat on the Dovrefell -- One's own children are always prettiest.
+title: 'East of the Sun and West of the Moon: Old Tales from the North'
+url: http://www.gutenberg.org/ebooks/30973
