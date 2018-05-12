@@ -35,6 +35,8 @@ creator:
 description: 'Includes six traditional Norwegian tales: East of the Sun and West of
   the Moon, The Blue Belt, The Lassie and her Godmother, The Three Princesses of Whiteland,
   The Widow''s Son, The Three Princesses in the Blue Mountain.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30973#East-of-the-Sun-and-West-of-the-Moon--Old-Tales-from-the-North
 gutenberg_issued: '2010-01-15'
 gutenberg_type: Text
 identifiers:
